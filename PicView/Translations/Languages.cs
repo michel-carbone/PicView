@@ -6,6 +6,7 @@
         da,
         de,
         es,
+		fr,
         zh_CN
     }
 }
